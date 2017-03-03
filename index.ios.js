@@ -16,6 +16,7 @@ import {
 
 import Splash from './Splash';
 import Camera from 'react-native-camera';
+import api from './API';
 
 export default class testApp extends Component {
 
