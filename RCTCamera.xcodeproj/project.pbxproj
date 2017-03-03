@@ -147,6 +147,7 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../../React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
@@ -157,6 +158,7 @@
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../../React/**",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
 		};

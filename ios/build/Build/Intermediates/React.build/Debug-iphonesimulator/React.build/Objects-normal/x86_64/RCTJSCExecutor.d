@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Base/RCTUtils.h

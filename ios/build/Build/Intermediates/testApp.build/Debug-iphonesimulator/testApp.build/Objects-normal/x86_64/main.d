@@ -1,2 +1,2 @@
-dependencies: /Users/michaelhawes/Desktop/testApp/ios/testApp/main.m \
-  /Users/michaelhawes/Desktop/testApp/ios/testApp/AppDelegate.h
+dependencies: /Users/michaelhawes/Desktop/Alergy/ios/testApp/main.m \
+  /Users/michaelhawes/Desktop/Alergy/ios/testApp/AppDelegate.h

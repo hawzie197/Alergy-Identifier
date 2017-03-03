@@ -6,7 +6,7 @@
 <string>Apple LLVM version 8.0.0 (clang-800.0.42.1)</string>
  <key>files</key>
  <array>
-  <string>/Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Modules/RCTRedBox.m</string>
+  <string>/Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Modules/RCTRedBox.m</string>
  </array>
  <key>diagnostics</key>
  <array>

@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/michaelhawes/Desktop/testApp/ios/testAppTests/testAppTests.m \
+  /Users/michaelhawes/Desktop/Alergy/ios/testAppTests/testAppTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -29,13 +29,13 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/michaelhawes/Desktop/testApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/michaelhawes/Desktop/Alergy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

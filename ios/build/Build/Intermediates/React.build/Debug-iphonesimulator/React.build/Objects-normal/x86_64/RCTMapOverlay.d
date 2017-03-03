@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Views/RCTMapOverlay.m \
-  /Users/michaelhawes/Desktop/testApp/node_modules/react-native/React/Views/RCTMapOverlay.h
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Views/RCTMapOverlay.m \
+  /Users/michaelhawes/Desktop/Alergy/node_modules/react-native/React/Views/RCTMapOverlay.h
