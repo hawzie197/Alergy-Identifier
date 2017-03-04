@@ -1,0 +1,6 @@
+spider
+bee
+snake
+poisonivy
+bedbugs
+mosquito
