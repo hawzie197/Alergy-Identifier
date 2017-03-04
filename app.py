@@ -1,7 +1,8 @@
-# Author: Michael Hawes
+# Author: Michael Hawes Tony Tran
 # 2 March 2017
 
 import os
+import afflictionID
 from flask import Flask, render_template, request, redirect, url_for, session, send_from_directory
 from werkzeug.utils import secure_filename
 
@@ -20,7 +21,7 @@ def index():
 @app.route('/print/<filename>', methods = ['POST'])
 def print_name(filename):
     return (open('C:/Users/tonyb/desktop/'+filename+'.txt','r').readline())
-@app.route('/open', methods=['GET','POST'])
+@app.route('/open/<filename>', methods=['GET','POST'])
 def upload_file():
     if request.method == 'POST':
         # check if the post request has the file part
@@ -33,22 +34,26 @@ def upload_file():
         if file2.filename == '':
             flash('No selected file')
             return redirect(request.url)
-        if file2 and allowed_file(file2.filename):
-            filename = secure_filename(file2.filename)
+        if file2 and allowed_file(image):
+            filename = secure_filename(image)
             file2.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             #os.system('python /tf_files/label_image.py /images/'+filename+'>> '+filename+'.txt')
             #database stuff here
             #return 'snake'
-    return '''
-    <!doctype html>
-    <title>Upload new File</title>
-    <h1>Upload new File</h1>
-    <form method=post enctype=multipart/form-data>
-      <p><input type=file name=file>
-         <input type=submit value=Upload>
-    </form>
-    '''
+    # '''return '''
+    # <!doctype html>
+    # <title>Upload new File</title>
+    # <h1>Upload new File</h1>
+    # <form method=post enctype=multipart/form-data>
+    #   <p><input type=file name=file>
+    #      <input type=submit value=Upload>
+    # </form>
+    # '''
 
+    os.system('python /tf_files/label_image.py /tf_files/affliction/{}/{} > {}.txt'.format(animal, filename, filename))
+    animal = open('/tf_files/affliction/{}/{}.txt '.format(animal, filename), 'r')
+    #string = afflictionID.read_from_db(animal)
+    print(animal)
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
