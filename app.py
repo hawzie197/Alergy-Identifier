@@ -36,9 +36,9 @@ def upload_file():
         if file2 and allowed_file(file2.filename):
             filename = secure_filename(file2.filename)
             file2.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            os.system('python /tf_files/label_image.py /images/'+filename+'>> '+filename+'.txt')
+            #os.system('python /tf_files/label_image.py /images/'+filename+'>> '+filename+'.txt')
             #database stuff here
-            return 'snake'
+            #return 'snake'
     return '''
     <!doctype html>
     <title>Upload new File</title>
